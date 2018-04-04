@@ -1,7 +1,5 @@
 ![Junxion logo](https://github.com/junxion-io/Junxion/blob/master/imagery/junxion-logo.png?raw=true)
 
-**[juhngk-shuh n]**: something that joins other things together.
-
 ## Junxion screenshots
 ![Junxion Screenshot](https://github.com/junxion-io/Junxion/blob/master/imagery/ss1.png?raw=true)
 ![Junxion Screenshot](https://github.com/junxion-io/Junxion/blob/master/imagery/ss2.png?raw=true)
