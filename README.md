@@ -12,12 +12,12 @@ Junxion is a free desktop application that makes managing all of your blockchain
 The problem with cryptocurrencies today is that there is nothing that allows you to manage all of your assets in one place. A lot of people have assets on several exchanges, some in an ERC20 account and some staking locally or even in offline hardware or paper wallets. So you have to login to several different places in order to manage all of your assets. Junxion fixes that problem by loading your assets into the desktop application and even offers the ability to research and keep track of other up and coming coins. We are adding new features all the time so be sure to check out our **[roadmap](http://www.junxion.io)** to see what is coming.
 
 ## Installation
-The application runs on OSX and Windows. Download the correct installer for your operating system. [Click here to view latest releases](https://github.com/junxion-io/Junxion/releases).
+The application runs on OSX and Windows. Download the correct installer for your operating system.
 
-```
-On OSX after you install it, you will need to right click on the application and
+* **[Click here to view latest releases](https://github.com/junxion-io/Junxion/releases)**
+
+> On **OSX** after you install it, you may need to right click on the application and
 select **Open** from the dialog window in order to open it for the first time.
-```
 
 ## Contact
 * **Website**: [http://www.junxion.io](http://www.junxion.io)
