@@ -1,5 +1,9 @@
 ![Junxion logo](https://github.com/junxion-io/Junxion/blob/master/imagery/junxion-logo.png?raw=true)
 
+
+![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg)
+
+
 **[juhngk-shuh n]**: something that joins other things together.
 
 ## What is Junxion?
