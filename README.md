@@ -1,5 +1,8 @@
 ![Junxion logo](https://github.com/junxion-io/Junxion/blob/master/imagery/junxion-logo.png?raw=true)
 
+[![Release](https://img.shields.io/github/release/junxion-io/Junxion.svg?style=flat-square)](https://github.com/junxion-io/Junxion/releases)
+[![Release](https://img.shields.io/github/downloads/junxion-io/Junxion/total.svg)](https://github.com/junxion-io/Junxion/releases)
+
 **[juhngk-shuh n]**: something that joins other things together.
 
 ## What is Junxion?
